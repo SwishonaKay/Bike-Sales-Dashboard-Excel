@@ -32,5 +32,9 @@ The dataset used in this project is a sample bike sales dataset from [Github](ht
 ## Challenges and Solutions
 One challenge was dealing with visualizing age data because the wide range of ages made the chart cluttered and hard to read. To solve this, you used IF statements to group the ages into meaningful ranges and then plotted these grouped ranges instead. This made the chart cleaner and more interpretable.
 
+## Screenshot
+![Dashboard Screenshot ](https://github.com/SwishonaKay/Bike-Sales-Dashboard-Excel/blob/main/Bike%20Sales%20Dashboard.png)
+
+
 ## Contact Information
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/swishonakaykelly/) 
